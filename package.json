@@ -1,0 +1,16 @@
+{
+  "name": "newproyectentel",
+  "version": "1.0.0",
+  "description": "Aplicaccion api rest conectada a postman para ejecutar diferentes comandos para ejecutar en un servicio para generar swagger una copia de este y lo que mi imaginacion y mis habilidades como programador me permitan ...seguramente al terminar este proyecto solo dios sabra como funciona esto pero ....que dios provea ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger",
+    "entel",
+    "everis"
+  ],
+  "author": "Oscar Plaza - Everis",
+  "license": "ISC"
+}
