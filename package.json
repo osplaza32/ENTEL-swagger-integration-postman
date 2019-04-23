@@ -12,5 +12,11 @@
     "everis"
   ],
   "author": "Oscar Plaza - Everis",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-schema-to-openapi-schema": "^0.3.0",
+    "rename-keys": "^2.0.1",
+    "restify": "^8.3.0",
+    "to-json-schema": "^0.2.0"
+  }
 }
